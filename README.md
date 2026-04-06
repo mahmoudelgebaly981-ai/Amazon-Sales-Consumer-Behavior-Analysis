@@ -1,8 +1,4 @@
-<img width="682" height="387" alt="1" src="https://github.com/user-attachments/assets/4a2fff97-8b13-42b2-95cf-ec0203a35ccd" />
-<img width="679" height="381" alt="2" src="https://github.com/user-attachments/assets/18e0e4bd-4e20-4ed5-8c62-a4b081a76322" />
-<img width="681" height="385" alt="3" src="https://github.com/user-attachments/assets/324580ed-3b8c-4016-b5f9-7cb6f681e446" />
-<img width="677" height="381" alt="4" src="https://github.com/user-attachments/assets/cce84a29-861e-48a1-9c92-51a9a7921e4f" />
-<img width="678" height="384" alt="5" src="https://github.com/user-attachments/assets/1b201660-7e99-4dd6-80f8-d18b1e73dfbd" />
+
 
 # 📊 Amazon Sales & Consumer Behavior Analysis
 
@@ -26,3 +22,9 @@ The project utilizes a relational schema including:
 
 ## 📈 Dashboard Preview
 [Add Image of your main dashboard here]
+
+<img width="682" height="387" alt="1" src="https://github.com/user-attachments/assets/4a2fff97-8b13-42b2-95cf-ec0203a35ccd" />
+<img width="679" height="381" alt="2" src="https://github.com/user-attachments/assets/18e0e4bd-4e20-4ed5-8c62-a4b081a76322" />
+<img width="681" height="385" alt="3" src="https://github.com/user-attachments/assets/324580ed-3b8c-4016-b5f9-7cb6f681e446" />
+<img width="677" height="381" alt="4" src="https://github.com/user-attachments/assets/cce84a29-861e-48a1-9c92-51a9a7921e4f" />
+<img width="678" height="384" alt="5" src="https://github.com/user-attachments/assets/1b201660-7e99-4dd6-80f8-d18b1e73dfbd" />
